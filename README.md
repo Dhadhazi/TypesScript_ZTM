@@ -1,4 +1,4 @@
-# TypesScript Complete Developer Guid
+# TypeScript: The Complete Developer's Guide
 
 This is the code that I worte along with the course. This is only for future refernce, have some very clever TS solutions.
 
